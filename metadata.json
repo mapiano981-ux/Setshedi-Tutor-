@@ -1,0 +1,8 @@
+{
+  "name": "Setshedi Spark - High School AI Mentor",
+  "description": "A comprehensive study companion for high school students featuring real-time voice guidance, deep reasoning thinking modes, search-grounded academic help, and image analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
